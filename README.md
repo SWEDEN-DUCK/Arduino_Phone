@@ -1,4 +1,4 @@
-# Esp32_C3_Phone
+# Esp32 C3 Phone V1.0
 
 ### OLED Display Wiring
 
@@ -18,3 +18,8 @@
 | Right  | D10        | Moves selection right / previous |
 | OK     | D20        | Confirm / enter selection        |
 
+###Functions
+Calcylator 
+Game 
+Password saver
+Stopwatch
