@@ -18,9 +18,10 @@
 | Right  | D10        | Moves selection right / previous |
 | OK     | D20        | Confirm / enter selection        |
 
-### Functions
+### Functions/apps
 
 * Calcylator 
 * Game (My Spike game)
 * Password saver
 * Stopwatch
+* More functions/apps are coming!
