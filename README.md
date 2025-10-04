@@ -1,4 +1,11 @@
 # Esp32 C3 Phone V1.0
+This is the project that I am most proud of, I have been working on this for a long time and I hope that everyone who sees this project thinks it is good.
+
+This project will have many versions and probably different versions for different boards when I add WI-FI. There are a lot of comments in the code that make it easy to fix if you want to fix it to suit yourself.
+
+In the Password program, you can add your own passwords and emails by changing the examples or adding more IF statements. It is very easy to do, all you need to do is duplicate the IF function in void password at the long comment and change the number after NP == to the next number that is not already used.
+
+I hope everyone likes it! :D
 
 ### OLED 128x64 Display Wiring
 
