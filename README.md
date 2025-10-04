@@ -15,7 +15,7 @@ else if (NP == 3) { // change the 3 to 4 if you want to add this two times in th
 ```
 
 
-
+You might need to change the button pins and to do that find line 21-25 and change the numbers to the pins you want to use and if you need to change the oled monitor pins go to line 68 and change the numbers to the pins you want to use.
 
 I hope everyone likes it! :D
 
