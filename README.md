@@ -21,6 +21,6 @@
 ### Functions
 
 * Calcylator 
-* Game 
+* Game (My Spike game)
 * Password saver
 * Stopwatch
