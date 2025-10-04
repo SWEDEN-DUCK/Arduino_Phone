@@ -1,6 +1,6 @@
 # Esp32 C3 Phone V1.0
 
-### OLED Display Wiring
+### OLED 128x64 Display Wiring
 
 | OLED Pin | Connects To | Description      |
 |----------|------------|-----------------|
