@@ -3,7 +3,19 @@ This is the project that I am most proud of, I have been working on this for a l
 
 This project will have many versions and probably different versions for different boards when I add WI-FI. There are a lot of comments in the code that make it easy to fix if you want to fix it to suit yourself.
 
-In the Password program, you can add your own passwords and emails by changing the examples or adding more IF statements. It is very easy to do, all you need to do is duplicate the IF function in void password at the long comment and change the number after NP == to the next number that is not already used.
+In the Password program, you can add your own passwords and emails by changing the examples or adding more IF statements. It is very easy to do, all you need to do is duplicate the IF function in void password at the long comment and change the number in the "else if (NP == 1)" to the next number that is not already used like this
+
+```cpp
+else if (NP == 3) { // change the 3 to 4 if you want to add this two times in the code
+    display.setCursor(0, 26);
+    display.println("some@email.com");
+    display.setCursor(0, 36);
+    display.println("Test123#");
+}
+```
+
+
+
 
 I hope everyone likes it! :D
 
