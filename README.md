@@ -86,4 +86,21 @@ The controles can be a litle difrent depending on the program so hear is the con
 Animations and better UI coming soon!
 
 ---
+
 I hope everyone likes it! :D
+
+---
+Update Log
+---
+# V1.0 
+Starting update not very much to say
+
+# V2.0
+Added 
+* Pictures
+* Reaction time game 
+* Videos/animations
+* Notes
+Fixed som glitches
+
+
