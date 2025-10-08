@@ -1086,7 +1086,7 @@ void vids() {
   }
 }
 
-void note() {  //========take away start===========//
+void note() { 
   display.clearDisplay();
   display.setTextColor(WHITE);
   display.setTextSize(1);
