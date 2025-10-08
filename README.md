@@ -89,7 +89,6 @@ I hope everyone likes it! :D
 
 ---
 # Update Log
-
 ## V1.0 
 Starting update not very much to say.
 
