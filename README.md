@@ -85,8 +85,6 @@ The controles can be a litle difrent depending on the program so hear is the con
 
 Animations and better UI coming soon!
 
----
-
 I hope everyone likes it! :D
 
 ---
