@@ -78,7 +78,7 @@ The controles can be a litle difrent depending on the program so hear is the con
 * Password saver
 * Stopwatch
 * Pictures
-* Reaction time game
+* Reaction time game (High score coming soon)
 * Videos/animations
 * Notes (Changing notes from WI-FI coming soon only for Esp32 and other boards whith WI-FI)
 * More functions/apps are coming!
