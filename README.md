@@ -78,7 +78,7 @@ The controles can be a litle difrent depending on the program so hear is the con
 * Password saver
 * Stopwatch
 * Pictures
-* Reaction time game (High score coming soon)
+* Reaction time game 
 * Videos/animations
 * Notes (Changing notes from WI-FI coming soon only for Esp32 and other boards whith WI-FI)
 * More functions/apps are coming!
@@ -90,17 +90,20 @@ Animations and better UI coming soon!
 I hope everyone likes it! :D
 
 ---
-Update Log
+# Update Log
 ---
-# V1.0 
-Starting update not very much to say
+## V1.0 
+Starting update not very much to say.
 
-# V2.0
+## V2.0
 Added 
 * Pictures
 * Reaction time game 
 * Videos/animations
 * Notes
-Fixed som glitches
+Fixed som glitches.
 
+### V2.1
+All Apps got there own variables and back button problem got fixed.
+High score got added to reaction time game.
 
