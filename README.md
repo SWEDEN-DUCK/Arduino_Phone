@@ -3,16 +3,31 @@ This is the project that I am most proud of, I have been working on this for a l
 
 This project will have many versions and probably different versions for different boards when I add WI-FI. There are a lot of comments in the code that make it easy to fix if you want to fix it to suit yourself.
 
-In the Password program, you can add your own passwords and emails by changing the examples or adding more IF statements. It is very easy to do, all you need to do is duplicate the IF function in void password at the long comment and change the number in the "else if (NP == 1)" to the next number that is not already used like this
+---
+In the Password program , you can add your own passwords and emails by changing the examples or adding more IF statements. It is very easy to do, all you need to do is duplicate the IF function in void password at the long comment and change the number in the "else if (NP == 1)" to the next number that is not already used like this:
 
 ```cpp
-else if (NP == 3) { // change the 3 to 4 if you want to add this two times in the code
+
+if (NP == 0) {
+    display.setCursor(0, 26);
+    display.println("your@email.com");
+    display.setCursor(0, 36);
+    display.println("Password123!");
+  } else if (NP == 1) {
+    display.setCursor(0, 26);
+    display.println("mine@email.com");
+    display.setCursor(0, 36);
+    display.println("CoolGuy2?");
+  } else if (NP == 2) { // see how i have changed the number in the IF statement
     display.setCursor(0, 26);
     display.println("some@email.com");
     display.setCursor(0, 36);
     display.println("Test123#");
 }
 ```
+This works whith the Notes program it's literally the same thing just with notes.
+
+---
 
 If you want to change the pictures follow this totorial to make your own bitmaps: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
 
