@@ -15,7 +15,9 @@ else if (NP == 3) { // change the 3 to 4 if you want to add this two times in th
 ```
 
 If you want to change the pictures follow this totorial to make your own bitmaps: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
+
 The pokemon pictures and the sunset i found on this website: https://codewalr.us/archive2.php?topic=649.30
+
 And if you want to change the animations you can make your own or you can find other animations on: https://animator.wokwi.com/
 
 You might need to change the button pins and to do that find line 21-25 and change the numbers to the pins you want to use and if you need to change the oled monitor pins go to line 68 and change the numbers to the pins you want to use.
