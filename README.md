@@ -104,3 +104,6 @@ Fixed som glitches.
 All Apps got there own variables and back button problem got fixed.
 High score got added to reaction time game.
 
+### V2.2
+Added a "Too soon!" message if you pressed the button before the timer had started in the reaction game.
+
