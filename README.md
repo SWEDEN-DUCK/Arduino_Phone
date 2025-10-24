@@ -1,4 +1,4 @@
-# Esp32 C3 Phone V2.0
+# Arduino phone V2.2
 This is the project that I am most proud of, I have been working on this for a long time and I hope that everyone who sees this project thinks it is good.
 
 This project will have many versions and probably different versions for different boards when I add WI-FI. There are a lot of comments in the code that make it easy to fix if you want to fix it to your liking.
