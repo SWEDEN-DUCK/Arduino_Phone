@@ -86,7 +86,7 @@ The controles can be a litle difrent depending on the program so hear is the con
 * Notes (Changing notes from WI-FI coming soon only for Esp32 and other boards whith WI-FI)
 * More functions/apps are coming!
 
-Animations and better UI coming soon!
+Animations coming soon!
 
 I hope everyone likes it! :D
 
