@@ -1,4 +1,4 @@
-# Arduino phone V2.2
+# Arduino phone V3.0
 This is the project that I am most proud of, I have been working on this for a long time and I hope that everyone who sees this project thinks it is good.
 
 This project will have many versions and probably different versions for different boards when I add WI-FI. There are a lot of comments in the code that make it easy to fix if you want to fix it to your liking.
@@ -31,11 +31,13 @@ This works whith the Notes program it's literally the same thing just with notes
 
 If you want to change the pictures follow this totorial to make your own bitmaps: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
 
-The pokemon pictures and the sunset i found on this website: https://codewalr.us/archive2.php?topic=649.30
+The pokemon pictures and the sunset i found on this website so all cred to them: https://codewalr.us/archive2.php?topic=649.30
 
 And if you want to change the animations you can make your own or you can find other animations on: https://animator.wokwi.com/
 
-You might need to change the button pins and to do that find line 21-25 and change the numbers to the pins you want to use and if you need to change the oled monitor pins go to line 68 and change the numbers to the pins you want to use.
+You might need to change the button pins and to do that find line 90-94 and change the numbers to the pins you want to use and if you need to change the oled monitor pins go to line 510 and change the numbers to the pins you want to use.
+
+If you want the menu with icons you need to go in to setings and change menu type.
 
 The controles can be a litle difrent depending on the program so hear is the controles.
 
@@ -50,6 +52,7 @@ The controles can be a litle difrent depending on the program so hear is the con
 | Test     | Middle button/OK            | UP/DOWN              | Middle button/OK = Stop |
 | Vids     | Middle button/OK            | UP/DOWN              | No Extra                |
 | Note     | Middle button/OK            | LEFT/RIGHT           | No Extra                |
+| Setings  | Middle button/OK            | UP/DOWN/LEFT/RIGHT   | No Extra                |
 
 ---
 
@@ -106,4 +109,9 @@ High score got added to reaction time game.
 
 ### V2.2
 Added a "Too soon!" message if you pressed the button before the timer had started in the reaction game.
+
+## V3.0
+UI uppdate! Adds a grafics ui with nice icons. 
+Added
+* Setings
 
